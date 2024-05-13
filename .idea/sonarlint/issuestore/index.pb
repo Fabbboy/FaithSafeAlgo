@@ -24,3 +24,5 @@ X
 Q.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35,2\5\25f6469773b9f3ebb994178c1114a60412389f58
 Å
 Q.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b,a\b\abe25e851ee828e40a94fcb1c1be6f78ff7a04cf
+X
+(src/main/java/ch/faithsafe/alg/Main.java,f\6\f6dd7dc4a953db68e6e362d855c135580c6e4f7b

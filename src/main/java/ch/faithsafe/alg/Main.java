@@ -1,4 +1,4 @@
-package org.example;
+package ch.faithsafe.alg;
 
 public class Main {
   public static void main(String[] args) {
